@@ -3,10 +3,4 @@
 1. Ciudad Gótica
 2. Metrópolis
 3. Hell's Kitchen
-
-prueba tags
-prueba push
-
-
-
-### TEST SEGUNDO PUSH
+4. Pueblo Paleta 
